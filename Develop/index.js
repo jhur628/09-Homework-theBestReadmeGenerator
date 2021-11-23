@@ -46,9 +46,13 @@ const questions = [
         message : 'Give your project some test instructions'
     },
     {
-        type : 'input',
+        type : 'list',
         name : 'license',
-        message : 'What license did you use for this project?'
+        message : 'What license did you use for this project?',
+        choices : [
+            "mit",
+            "gpl-3.0"
+        ]
     },
     {
         type : 'input',

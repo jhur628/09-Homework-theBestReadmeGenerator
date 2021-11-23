@@ -1,7 +1,7 @@
-# readme
-  ![NPM](https://img.shields.io/npm/l/inquirer)
+# l
+  ![license](https://img.shields.io/static/v1?label=license&message=gpl-3.0&color=<green>)
   ## Description
-  read it
+  l
   ## Table of Contents
   ### [Installation](#installation)
   ### [Usage](#usage)
@@ -10,14 +10,15 @@
   ### [License](#license)
   ### [Credits](#credits)
   ## Installation
-  fill it
+  l
   ## Usage
-  use it
+  l
   ## Contribute
-  do it
+  l
   ## Test
-  test it
+  l
   ## License
-  inquirer
+  gpl-3.0
+  https://choosealicense.com/licenses/gpl-3.0/
   ## Credits
-  mom
+  l
