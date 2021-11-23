@@ -1,5 +1,5 @@
 # readme
-  ![inquirer](https://img.shields.io/github/languages/top/inquirer)
+  ![NPM](https://img.shields.io/npm/l/inquirer)
   ## Description
   read it
   ## Table of Contents
