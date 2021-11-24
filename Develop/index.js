@@ -66,17 +66,17 @@ const questions = [
     }
 ];
 function inputAnswers() {
-inquirer
-    .prompt(questions)
-    .then((data) => {
-        writeToFile("README.md", data)
-    })
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            writeToFile("README.md", data)
+        })
 };
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     const readmeContent = generateMarkdown(data);
-    fs.writeFile('output/README.md', readmeContent, (err) =>
+    fs.writeFile('Develop/output/README.md', readmeContent, (err) =>
     err ? console.log(err) : console.log('Successfully created README file'))
 }
 

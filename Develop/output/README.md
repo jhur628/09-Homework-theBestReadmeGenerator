@@ -1,7 +1,9 @@
-# l
-  ![license](https://img.shields.io/static/v1?label=license&message=gpl-3.0&color=<green>)
+# readme
+  ![license](https://img.shields.io/static/v1?label=license&message=mit&color=<green>)
   ## Description
-  l
+  Hi. My name is John. <br/>
+  I made a readme. <br/>
+  j
   ## Table of Contents
   ### [Installation](#installation)
   ### [Usage](#usage)
@@ -9,16 +11,22 @@
   ### [How to test](#test)
   ### [License](#license)
   ### [Credits](#credits)
+  ### [Questions](#questions)
   ## Installation
-  l
+  j
   ## Usage
-  l
+  j
   ## Contribute
-  l
+  j
   ## Test
-  l
+  j
   ## License
-  gpl-3.0
-  https://choosealicense.com/licenses/gpl-3.0/
+  mit <br/>
+  For information on mit visit:
+  https://choosealicense.com/licenses/mit/
   ## Credits
-  l
+  j
+  ## Questions
+  Have any questions? <br/>
+  Contact me at j@j.com. <br/>
+  Github: https://github.com/jhur628/
