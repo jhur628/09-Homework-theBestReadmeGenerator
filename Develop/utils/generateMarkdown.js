@@ -15,6 +15,8 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ![license](https://img.shields.io/static/v1?label=license&message=${data.license}&color=<green>)
   ## Description
+  Hi. My name is ${user.name}.
+  I made a ${data.title}.
   ${data.description}
   ## Table of Contents
   ### [Installation](#installation)
@@ -23,6 +25,7 @@ function generateMarkdown(data) {
   ### [How to test](#test)
   ### [License](#license)
   ### [Credits](#credits)
+  ### [Questions](#questions)
   ## Installation
   ${data.installation}
   ## Usage
@@ -36,6 +39,10 @@ function generateMarkdown(data) {
   https://choosealicense.com/licenses/${data.license}/
   ## Credits
   ${data.credits}
+  ## Questions
+  Have any questions?
+  Contact me at ${data.email}.
+  Github: https://github.com/${data.user}/
 `;
 }
 
