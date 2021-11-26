@@ -56,7 +56,8 @@ const questions = [
         message : 'What license did you use for this project?',
         choices : [
             "mit",
-            "gpl-3.0"
+            "gpl-3.0",
+            "Apache-2.0"
         ]
     },
     {
@@ -65,6 +66,7 @@ const questions = [
         message : 'Want to give someone credit?'
     }
 ];
+
 function inputAnswers() {
     inquirer
         .prompt(questions)
@@ -77,7 +79,7 @@ function inputAnswers() {
 function writeToFile(fileName, data) {
     const readmeContent = generateMarkdown(data);
     fs.writeFile('Develop/output/README.md', readmeContent, (err) =>
-    err ? console.log(err) : console.log('Successfully created README file'))
+    err ? console.log(err) : console.log('Successfully created README file!'))
 }
 
 // TODO: Create a function to initialize app
