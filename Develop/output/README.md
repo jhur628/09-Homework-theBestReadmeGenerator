@@ -1,32 +1,31 @@
-# readme
-  ![license](https://img.shields.io/static/v1?label=license&message=mit&color=<green>)
+# README
+  
   ## Description
   Hi. My name is John. <br/>
-  I made a readme. <br/>
-  j
+  I made a README. <br/>
+  read it
   ## Table of Contents
   ### [Installation](#installation)
   ### [Usage](#usage)
   ### [How to contribute](#contribute)
   ### [How to test](#test)
-  ### [License](#license)
   ### [Credits](#credits)
   ### [Questions](#questions)
+  ### [License](#license) <br/>
   ## Installation
-  j
+  intall it
   ## Usage
-  j
+  use it
   ## Contribute
-  j
+  do it
   ## Test
-  j
-  ## License
-  mit <br/>
-  For information on mit visit:
-  https://choosealicense.com/licenses/mit/
+  test it
   ## Credits
-  j
+  Mom
   ## Questions
   Have any questions? <br/>
-  Contact me at j@j.com. <br/>
-  Github: https://github.com/jhur628/
+  Contact me at hur.john628@gmail.com. <br/>
+  Github: https://github.com/jhur628/ <br/>
+  ## License
+  
+  

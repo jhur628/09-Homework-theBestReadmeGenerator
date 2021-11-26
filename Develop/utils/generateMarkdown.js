@@ -14,11 +14,27 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  if (license === "mit") {
+    return "MIT <br/> For more information on the MIT license, visit: https://opensource.org/licenses/MIT"
+  } else if (license === "gpl-3.0") {
+    return "GPL 3.0 <br/> For more information on the GPL 3.0 license, visit: https://opensource.org/licenses/GPL-3.0"
+  } else if (license === "Apache-2.0") {
+    return "Apache 2.0 <br/> For more information on the Apache 2.0 license, visit: https://opensource.org/licenses/Apache-2.0"
+  } else if (license === "none") {
+    return ""
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(license) {
+  if (license === "mit" || "gpl-3.0" || "Apache-2.0") {
+    return "## License"
+  } else if (license === "none") {
+    return ""
+  }
+}
 
 
 // TODO: Create a function to generate markdown for README
@@ -34,9 +50,9 @@ function generateMarkdown(data) {
   ### [Usage](#usage)
   ### [How to contribute](#contribute)
   ### [How to test](#test)
-  ### [License](#license)
   ### [Credits](#credits)
   ### [Questions](#questions)
+  ### [License](#license) <br/>
   ## Installation
   ${data.installation}
   ## Usage
@@ -45,16 +61,15 @@ function generateMarkdown(data) {
   ${data.contributing}
   ## Test
   ${data.tests}
-  ## License
-  ${data.license} <br/>
-  For information on ${data.license} visit:
-  https://choosealicense.com/licenses/${data.license}/
   ## Credits
   ${data.credits}
   ## Questions
   Have any questions? <br/>
   Contact me at ${data.email}. <br/>
-  Github: https://github.com/${data.user}/
+  Github: https://github.com/${data.user}/ <br/>
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseBadge(data.license)}
+  ${renderLicenseLink(data.license)}
 `;
 }
 
