@@ -57,7 +57,8 @@ const questions = [
         choices : [
             "mit",
             "gpl-3.0",
-            "Apache-2.0"
+            "Apache-2.0",
+            "none"
         ]
     },
     {
