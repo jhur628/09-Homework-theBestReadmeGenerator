@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
   ## Description
   Hi. My name is ${data.name}. <br/>
-  I made a ${data.title}. <br/>
+  I made a ${data.title}. <br/><br/>
   ${data.description}
   ## Table of Contents
   ### [Installation](#installation)

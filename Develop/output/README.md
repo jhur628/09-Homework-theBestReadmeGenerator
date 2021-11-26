@@ -2,7 +2,7 @@
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
   Hi. My name is John. <br/>
-  I made a README Generator. <br/>
+  I made a README Generator. <br/><br/>
   The README Generator makes a README.md file after you fill in a few prompts.
   ## Table of Contents
   ### [Installation](#installation)
