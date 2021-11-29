@@ -46,13 +46,13 @@ function generateMarkdown(data) {
   I made a ${data.title}. <br/><br/>
   ${data.description}
   ## Table of Contents
-  ### [Installation](##Installation)
-  ### [Usage](##Usage)
-  ### [How to contribute](##Contribute)
-  ### [How to test](##Test)
-  ### [Credits](##Credits)
-  ### [Questions](##Questions)
-  ### [${renderLicenseSection(data.license)}](##${renderLicenseSection(data.license)}) <br/>
+  ### [Installation](#Installation)
+  ### [Usage](#Usage)
+  ### [How to contribute](#Contribute)
+  ### [How to test](#Test)
+  ### [Credits](#Credits)
+  ### [Questions](#Questions)
+  ### [${renderLicenseSection(data.license)}](#${renderLicenseSection(data.license)}) <br/>
   ## Installation
   ${data.installation}
   ## Usage

@@ -5,13 +5,13 @@
   I made a README. <br/><br/>
   Read it
   ## Table of Contents
-  ### [Installation](##installation)
-  ### [Usage](##usage)
-  ### [How to contribute](##contribute)
-  ### [How to test](##test)
-  ### [Credits](##credits)
-  ### [Questions](##questions)
-  ### [License](##License) <br/>
+  ### [Installation](#installation)
+  ### [Usage](#usage)
+  ### [How to contribute](#contribute)
+  ### [How to test](#test)
+  ### [Credits](#credits)
+  ### [Questions](#questions)
+  ### [License](#License) <br/>
   ## Installation
   Install it
   ## Usage

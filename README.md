@@ -14,11 +14,11 @@
   Sample README file: [https://github.com/jhur628/09-Homework-theBestReadmeGenerator/blob/main/Develop/README.md](https://github.com/jhur628/09-Homework-theBestReadmeGenerator/blob/main/Develop/README.md)
   
   ## Table of Contents
-  ### [Screenshots](##Screenshots)
-  ### [Installation](##Installation)
-  ### [Usage](##Usage)
-  ### [Credits](##Credits)
-  ### [Questions](##Questions)
+  ### [Screenshots](#Screenshots)
+  ### [Installation](#Installation)
+  ### [Usage](#Usage)
+  ### [Credits](#Credits)
+  ### [Questions](#Questions)
 
   ## Screenshots
   ![Sample README 1](./Develop/assets/images/readmeGenerator1.jpg)
