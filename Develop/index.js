@@ -79,7 +79,7 @@ function inputAnswers() {
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     const readmeContent = generateMarkdown(data);
-    fs.writeFile('Develop/output/README.md', readmeContent, (err) =>
+    fs.writeFile('Develop/README.md', readmeContent, (err) =>
     err ? console.log(err) : console.log('Successfully created README file!'))
 }
 
