@@ -13,6 +13,8 @@
   
   Sample README file: [https://github.com/jhur628/09-Homework-theBestReadmeGenerator/blob/main/Develop/README.md](https://github.com/jhur628/09-Homework-theBestReadmeGenerator/blob/main/Develop/README.md)
   
+  Video: [https://watch.screencastify.com/v/Dl6Ygp858LSAsvuN7R8C](https://watch.screencastify.com/v/Dl6Ygp858LSAsvuN7R8C)
+  
   ## Table of Contents
   ### [Installation](#Installation)
   ### [Usage](#Usage)
