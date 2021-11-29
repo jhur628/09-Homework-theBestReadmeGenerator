@@ -20,10 +20,6 @@
   ### [Credits](#Credits)
   ### [Questions](#Questions)
 
-  ## Screenshots
-  ![Sample README 1](./Develop/assets/images/readmeGenerator1.jpg)
-  ![Sample README 2](./Develop/assets/images/readmeGenerator2.jpg)
-  ![README Generator](./Develop/assets/images/readmeGenerator3.jpg)
   ## Installation
   No installation required. Just run index.js on node.
   ## Usage
@@ -34,3 +30,7 @@
   Have any questions? <br/>
   Contact me at hur.john628.com. <br/>
   Github: https://github.com/jhur628/ <br/>
+  ## Screenshots
+  ![Sample README 1](./Develop/assets/images/readmeGenerator1.jpg)
+  ![Sample README 2](./Develop/assets/images/readmeGenerator2.jpg)
+  ![README Generator](./Develop/assets/images/readmeGenerator3.jpg)
